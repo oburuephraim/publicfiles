@@ -1,0 +1,14 @@
+{
+  "en": {
+    "header": "Welcome to my website",
+    "body": "This is a sample web page."
+  },
+  "fr": {
+    "header": "Bienvenue sur mon site web",
+    "body": "Ceci est une page web d'exemple."
+  },
+  "es": {
+    "header": "Bienvenido a mi sitio web",
+    "body": "Esta es una página web de muestra."
+  }
+}
